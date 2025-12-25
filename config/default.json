@@ -1,0 +1,11 @@
+{
+  "consumption": {
+    "machine_id": 12345,
+    "enable_external_api": false,
+    "ring_buffer_size": 1000,
+    "aggregation_interval": 3600,
+    "api_endpoint": "https://api.example.com/consumption",
+    "api_key": "",
+    "max_retry_attempts": 3
+  }
+}
