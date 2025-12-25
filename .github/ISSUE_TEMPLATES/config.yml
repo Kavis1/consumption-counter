@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📧 Security Issues
+    url: mailto:security@vendor.com
+    about: Please report security vulnerabilities by email
+  - name: 💬 Community Discussions
+    url: https://github.com/vendor/consumption-counter/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 📖 Documentation
+    url: https://github.com/vendor/consumption-counter/tree/main/docs
+    about: Check our documentation for answers
+  - name: 🏢 Commercial Support
+    url: mailto:support@vendor.com
+    about: Contact us for commercial support and custom development

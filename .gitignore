@@ -1,0 +1,49 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.out
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test coverage
+*.gcda
+*.gcno
+*.gcov
+coverage/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+cmake-build-*/
+
+# Documentation build
+docs/html/
+docs/latex/
+docs/man/
+
+# Local configuration
+config/local.json
+.env
